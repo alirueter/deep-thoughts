@@ -15,7 +15,16 @@ Other technologies taht were used include GraphQL, Apollo Server, React Router, 
 This application was deployed using Heroku: https://fathomless-harbor-51359.herokuapp.com/
 
 ## [Screenshots](#Screenshots)
-
+### Homepage:
+![](/screenshots/readme1.png)
+<br>
+<br>
+### Login: 
+![](/screenshots/readme2.png)
+<br>
+<br>
+### Signup:
+![](/screenshots/readme3.png)
 
 ## [Questions](#Questions)
 To see more of my work, visit my GitHub at [alirueter](https://github.com/alirueter). If you have any questions, you can contact me at rueter.alison@gmail.com.
