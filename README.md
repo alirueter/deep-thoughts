@@ -4,7 +4,7 @@
 1. [Description](#Description)
 2. [Installation](#Installation)
 3. [Screenshots](#Screenshots)
-4. Questions](#Questions)
+4. [Questions](#Questions)
 
 ## [Description](#Description)
 Deep Thoughts is an application that was built using the MERN stack (MongoDB, Express.js, React, and Node.js. 
