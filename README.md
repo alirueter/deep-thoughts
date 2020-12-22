@@ -12,7 +12,7 @@ It is a social media application that allows users to sign up and create an acco
 Other technologies taht were used include GraphQL, Apollo Server, React Router, if-env, concurrently, JSON Web Token, faker, and nodemon.
 
 ## [Installation](#Installation)
-This application was deployed using Heroku: https://fathomless-harbor-51359.herokuapp.com/
+This application was deployed using Heroku: https://deep-thoughts-00.herokuapp.com/
 
 ## [Screenshots](#Screenshots)
 ### Homepage:
